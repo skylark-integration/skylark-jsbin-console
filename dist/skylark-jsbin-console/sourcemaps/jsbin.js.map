@@ -1,0 +1,1 @@
+{"version":3,"sources":["jsbin.js"],"names":["define","skylark","attach"],"mappings":";;;;;;;AAAAA,QACE,yBACA,SAASC,GACT,OAAOA,EAAQC,OAAO","file":"../jsbin.js","sourcesContent":["define([\r\n  \"skylark-langx/skylark\"\r\n],function(skylark){\r\n  return skylark.attach(\"intg.jsbin\");\r\n});"]}
